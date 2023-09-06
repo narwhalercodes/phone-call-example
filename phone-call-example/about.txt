@@ -1,0 +1,7 @@
+created using
+<code>dotnet new console -o phone-call-example -f net7.0</code>
+
+run with
+<code>dotnet run --project ./phone-call-example</code>
+
+make sure you have the /phone-call-example/obj/ folder installed
